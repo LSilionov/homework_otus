@@ -1,1 +1,1 @@
-# homework_otus
++ print('hello, world!')
